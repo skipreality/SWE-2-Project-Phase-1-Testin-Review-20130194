@@ -1,0 +1,4 @@
+1,omnia,shawki,778899,student
+2,Mohamed,Khaled,556677,teacher
+3,raja,rabie,77889900,student
+4,Amer,22,Omar,Teacher
